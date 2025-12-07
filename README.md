@@ -1,8 +1,3 @@
-# 30_day_python
-Absolutely! Here's a **personalized `README.md`** for your **30 Days of Python — Rafiki x BoJack Edition** project:
-
----
-
 # 30 Days of Python — Rafiki 
 
 Welcome to my **30 Days of Python journey**, inspired by **BoJack Horseman**, **gaming**, and my personal interests. This notebook takes you step-by-step from Python basics to more advanced concepts, with each "Day" like a mini-chapter in an epic tale.

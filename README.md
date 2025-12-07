@@ -77,14 +77,3 @@ This notebook reflects **my life, hobbies, and interests**:
 * Anime watchlist examples
 * Study schedules and subject tracking
 
----
-
-## Author
-
-**Rafiki** – Python enthusiast, FC26 gamer, BoJack fan, lifelong learner
-
----
-
-I can also **create the actual `README.md` file** for you in `.md` format so you can include it in your GitHub repo.
-
-Do you want me to do that next?

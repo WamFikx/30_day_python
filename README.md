@@ -65,15 +65,3 @@ By the end of this project, you'll be able to:
 * Write functions, handle exceptions, and work with modules
 * Understand classes, objects, and inheritance
 * Build small simulations integrating Python knowledge
-
----
-
-## Personalized Touch
-
-This notebook reflects **my life, hobbies, and interests**:
-
-* FC26 gaming sessions
-* BoJack Horseman moods and quotes
-* Anime watchlist examples
-* Study schedules and subject tracking
-
